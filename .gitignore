@@ -1,2 +1,5 @@
+# Ignore all .jpeg files
 *.jpeg
+
+# Ignore folder secret
 secret/
